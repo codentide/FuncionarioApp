@@ -101,6 +101,6 @@ public class Funcionario {
 
     @Override
     public String toString() {
-        return "Funcionario{ " + "id= " + id +" }";
+        return nombres + " " + apellidos;
     }
 }

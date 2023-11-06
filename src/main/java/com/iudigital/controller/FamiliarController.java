@@ -19,7 +19,7 @@ public class FamiliarController {
     }
     
     // Crear familiar
-    public void crear (Familiar familiar) throws SQLException {
+    public void crearFamiliar (Familiar familiar) throws SQLException {
         familiarDao.crearFamiliar(familiar);
     }
     

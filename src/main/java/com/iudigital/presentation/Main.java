@@ -224,7 +224,7 @@ public class Main {
             familiar.setRol(rolFamiliar);
             
             // Crear Familiar
-            familiarController.crear(familiar);             
+            familiarController.crearFamiliar(familiar);             
             
             System.out.println("\n- Familiar creado con éxito...\n");            
             

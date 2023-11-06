@@ -51,7 +51,7 @@ public class Familiar {
 
     @Override
     public String toString() {
-        return "Familiar{" + "id= " + id + "}";
+        return nombres + " " + apellidos;
     }
     
     
